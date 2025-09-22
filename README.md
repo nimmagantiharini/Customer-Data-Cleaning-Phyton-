@@ -3,3 +3,10 @@
 For the Customer Personality Analysis dataset, this repository offers a comprehensive data cleaning methodology.  It contains Python programs to format dates, manage missing numbers, eliminate duplication, standardize text, and correct data types.  The cleaned dataset is ready for additional modeling, analysis, and visualization.
 ## Data set Used
 - <a href="https://github.com/nimmagantiharini/Customer-Data-Cleaning-Phyton-.xlsx" phyton data</a>
+## Features
+- Identify and handle missing values
+- Remove duplicate rows
+- Standardize text values (e.g., gender, country names)
+- Convert date formats to a consistent type (`dd-mm-yyyy`)
+- Rename column headers to lowercase, no spaces
+- Check and fix data types (e.g., age → int, dates → datetime)
