@@ -2,7 +2,7 @@
 ## Project Objective
 For the Customer Personality Analysis dataset, this repository offers a comprehensive data cleaning methodology.  It contains Python programs to format dates, manage missing numbers, eliminate duplication, standardize text, and correct data types.  The cleaned dataset is ready for additional modeling, analysis, and visualization.
 ## Data set Used
-- <a href="https://github.com/nimmagantiharini/Customer-Personality-Analysis-Phyton-.xlsx"> Raw Customer Data</a>
+https://github.com/nimmagantiharini/Customer-Data-Cleaning-Phyton-/blob/main/Customer%20personality%20Analysis1.csv
 ## Features
 - Identify and handle missing values
 - Remove duplicate rows
