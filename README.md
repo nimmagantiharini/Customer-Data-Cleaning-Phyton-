@@ -23,3 +23,6 @@ customer-data-cleaning/
 
 ## Install dependencies:
 pip install pandas
+
+## customer-personality-cleaned
+Favorites/harini/customers data.ipynb
