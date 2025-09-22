@@ -10,3 +10,13 @@ For the Customer Personality Analysis dataset, this repository offers a comprehe
 - Convert date formats to a consistent type (`dd-mm-yyyy`)
 - Rename column headers to lowercase, no spaces
 - Check and fix data types (e.g., age → int, dates → datetime)
+## Structure
+customer-data-cleaning/
+│── data/
+│ └── Customer personality Analysis.csv # raw dataset
+│── notebooks/
+│ └── data_cleaning.ipynb # Jupyter notebook with cleaning steps
+│── scripts/
+│ └── clean_data.py # Python script for automated cleaning
+│── output/
+│ └── Customer_personality_cleaned.csv # cleaned dataset
