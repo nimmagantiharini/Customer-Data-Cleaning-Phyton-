@@ -25,4 +25,4 @@ customer-data-cleaning/
 pip install pandas
 
 ## customer-personality-cleaned
-Favorites/harini/customers data.ipynb
+- <a href="Favorites/harini/customers data.ipynb"> Structure Data</a>
