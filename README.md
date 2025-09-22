@@ -26,3 +26,5 @@ pip install pandas
 
 ## customer-personality-cleaned
 http://localhost:8888/notebooks/Favorites%2Fharini%2Fcustomers%20data.ipynb
+## Conclusion
+The raw Customer Personality Analysis dataset initially contained missing values, duplicate rows, inconsistent text (e.g., gender, country names), irregular date formats, and incorrect data types. Through systematic cleaning, these issues were resolved by filling missing values, removing duplicates, standardizing text, converting dates to dd-mm-yyyy, renaming columns, and correcting data types. The final dataset (customer-personality-cleaned) is now consistent, structured, and fully prepared for exploratory analysis, visualization, and machine learning applications.
