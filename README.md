@@ -20,3 +20,6 @@ customer-data-cleaning/
 │ └── clean_data.py # Python script for automated cleaning
 │── output/
 │ └── Customer_personality_cleaned.csv # cleaned dataset
+
+## Install dependencies:
+pip install pandas
